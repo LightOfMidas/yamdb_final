@@ -44,4 +44,4 @@ API для получения информации и обсуждения на�
   `$ docker-compose exec web python manage.py createsuperuser`
 
 Бэйдж
-https://github.com/lightofmidas/yamdb_final/workflows/yamdb_workflow.yaml/badge.svg
+[![yamdb_workflow](https://github.com/LightOfMidas/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/LightOfMidas/yamdb_final/actions/workflows/yamdb_workflow.yml)
