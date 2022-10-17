@@ -43,5 +43,5 @@ API для получения информации и обсуждения на�
 - Для доступа к админке не забудьте создать суперюзера
   `$ docker-compose exec web python manage.py createsuperuser`
 
-Бэйдж
+Бэйдж:
 [![yamdb_workflow](https://github.com/LightOfMidas/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/LightOfMidas/yamdb_final/actions/workflows/yamdb_workflow.yml)
