@@ -45,3 +45,5 @@ API для получения информации и обсуждения на�
 
 Бэйдж:
 [![yamdb_workflow](https://github.com/LightOfMidas/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/LightOfMidas/yamdb_final/actions/workflows/yamdb_workflow.yml)
+
+Адрес для ревью: http://178.154.224.29/admin
